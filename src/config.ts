@@ -25,8 +25,8 @@ export const colors = getRandomTheme();
 export const random_theme_button = true;
 
 export const base_profile = {
-    first_name: "John",
-    last_name: "Doe",
+    first_name: "Fernando",
+    last_name: "Azanza",
     subtitle: "Aspiring Software Developer",
     bio: ["Miami, FL", "Florida International University"],
     name() {
@@ -36,7 +36,7 @@ export const base_profile = {
 
 export const extended_profile = {
     gender: "Male", // You can input any gender
-    username: "Cobra", // You can opt out my commenting either of these
+    username: "FDAC-03", // You can opt out my commenting either of these
 } as ExtendedProfile;
 
 export const skillsList = [
